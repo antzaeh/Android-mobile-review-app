@@ -6,6 +6,7 @@ Made with firebase so you have to add your own collection in
 MainActivity 165
 and
 NewProductActivity 336
+and add your own google-services.json
 
 All the weather and sensor stuff I added it because the assignment required.
 
