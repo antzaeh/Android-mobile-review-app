@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinaaliProjekti</string>
+    <string name="error_no_sensor">No sensor\n</string>
+    <string name="label_light">Light Sensor: %1$.2f lux</string>
+    <string name="label_proximity">Proximity Sensor: %1$.2f cm</string>
+    <string name="label_orientation">Orientation Sensor:\nAzimuth: %1$.2f\nPitch: %2$.2f\nRoll: %3$.2f</string>
+    <string name="label_accelerometer">Accelerometer Sensor:\nX: %1$.2f\nY: %2$.2f\nZ: %3$.2f</string>
+    <string name="label_gyroscope">Gyroscope Sensor:\nX: %1$.2f\nY: %2$.2f\nZ: %3$.2f</string>
+    <string name="label_temperature">Temperature Sensor: %1$.2f °C</string>
+</resources>
